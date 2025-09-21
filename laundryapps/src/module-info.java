@@ -1,3 +1,3 @@
-module laundryapps {
-	requires java.desktop;
-}
+//module laundryapps {
+//	requires java.desktop;
+//}
